@@ -1,7 +1,7 @@
 <h3>Ola, me chamo Charles Manhães :sunglasses:</h3>
 <br>
 <p>
-  Atualmente sou um estudante de programação, estou me especializando em FRONT END.
+  Atualmente sou um estudante de programação, estou me especializando em FULL STACK.
 <br>Estou aprendendo e criando projetos com: :construction::construction:
 <br>
 </p>
